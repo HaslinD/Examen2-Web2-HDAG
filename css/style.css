@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 :root{
-    --f7-theme-color:#007042;
-    --f7-navbar-bg-color: #007042; /*navbar*/
+    --f7-theme-color:#e38010;
+    --f7-navbar-bg-color: #e38010; /*navbar*/
     --f7-navbar-text-color:#fff;
     --f7-bars-bg-color:#fff;/*toolbar*/
-	--color-verde:#007042;
+	--color-verde:#e38010;
 	--color-gris: #8f8f8f;
 	--color-negro: #000;
 	--fondo-gris:#eaebeb;
@@ -21,6 +21,44 @@ h1,h2,h3,h4,h5,h6{
 p{
 	margin: 5px 0;
 }
+
+#home .card{
+	background-image: url("../img/getty_583734066_335273.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#home h2{
+	padding: 20% 0;
+	text-align: center;
+	color: #fff;
+	text-shadow: 1px 1px 10px #002696;
+}
+
+#pop1 .card-content{
+	background-image: url("../img/getty_583734066_335273.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#pop2 .card-content{
+	background-image: url("../img/getty_583734066_335273.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#pop3 .card-content{
+	background-image: url("../img/getty_583734066_335273.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#pop4 .card-content{
+	background-image: url("../img/getty_583734066_335273.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .navbar a{
 	color: #fff;
 }
@@ -42,8 +80,7 @@ p{
 }
 
 .card-intro{
-	background-color: var(--color-verde);
-	color: #fff;
+	color: #000;
 	box-shadow: none;
 	border-radius: 20px;
 }
