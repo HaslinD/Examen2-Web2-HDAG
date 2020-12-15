@@ -43,6 +43,12 @@ p{
 	color:#d1560f;
 }
 
+#pop1 span.precio, #pop2 span.precio, #pop3 span.precio, #pop4 span.precio {
+	background-color: #000;
+	margin: 10%;
+	border-radius: 15%;
+}
+
 #pop1 .card-content{
 	background-image: url("../img/Kyoto, Japan.jpg");
 	background-repeat: no-repeat;
