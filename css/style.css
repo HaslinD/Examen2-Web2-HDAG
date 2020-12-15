@@ -36,18 +36,18 @@ p{
 }
 
 #pop1, #pop2, #pop3, #pop4 {
-	color: #808080;
+	color: #d1560f;
 }
 
 #pop1 h5, #pop2 h5, #pop3 h5, #pop4 h5 {
-	color:#808080;
+	color:#d1560f;
 }
 
 #pop1 .card-content{
 	background-image: url("../img/Kyoto, Japan.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	color: #808080;
+	color:#d1560f;
 }
 
 #pop1 span.material-icons {
@@ -62,7 +62,7 @@ p{
 	background-image: url("../img/Caesarea, Israel.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	color: #808080;
+	color:#d1560f;
 }
 
 #pop2 span.material-icons {
