@@ -35,28 +35,70 @@ p{
 	text-shadow: 1px 1px 10px #002696;
 }
 
+#pop1, #pop2, #pop3, #pop4 {
+	color: #808080;
+}
+
+#pop1 h5, #pop2 h5, #pop3 h5, #pop4 h5 {
+	color:#808080;
+}
+
 #pop1 .card-content{
-	background-image: url("../img/getty_583734066_335273.jpg");
+	background-image: url("../img/Kyoto, Japan.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	color: #808080;
+}
+
+#pop1 span.material-icons {
+	margin-bottom: 25%;
+}
+
+#pop1 .card-cont{
+	background-color: #e38010;
 }
 
 #pop2 .card-content{
-	background-image: url("../img/getty_583734066_335273.jpg");
+	background-image: url("../img/Caesarea, Israel.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	color: #808080;
+}
+
+#pop2 span.material-icons {
+	margin-bottom: 25%;
+}
+
+#pop2 .card-cont{
+	background-color: #e38010;
 }
 
 #pop3 .card-content{
-	background-image: url("../img/getty_583734066_335273.jpg");
+	background-image: url("../img/Big Island, Hawaii.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
+#pop3 span.material-icons {
+	margin-bottom: 25%;
+}
+
+#pop3 .card-cont{
+	background-color: #e38010;
+}
+
 #pop4 .card-content{
-	background-image: url("../img/getty_583734066_335273.jpg");
+	background-image: url("../img/Arequipa, Peru.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+#pop4 span.material-icons {
+	margin-bottom: 25%;
+}
+
+#pop4 .card-cont{
+	background-color: #e38010;
 }
 
 .navbar a{

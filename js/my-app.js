@@ -28,6 +28,11 @@ var myApp = new Framework7({
 		path: '/info/',
     	url: 'info.html',
     	name: 'info',
+  		},
+		{
+		path: '/info2/',
+    	url: 'info2.html',
+    	name: 'info2',
   		}
 	]
 });
